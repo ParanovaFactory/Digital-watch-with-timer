@@ -1,0 +1,9 @@
+O:\Udemy\Udemy C# Örnekleri\Timer Diğital Saat\Timer Diğital Saat\bin\Debug\Timer Diğital Saat.exe.config
+O:\Udemy\Udemy C# Örnekleri\Timer Diğital Saat\Timer Diğital Saat\bin\Debug\Timer Diğital Saat.exe
+O:\Udemy\Udemy C# Örnekleri\Timer Diğital Saat\Timer Diğital Saat\bin\Debug\Timer Diğital Saat.pdb
+O:\Udemy\Udemy C# Örnekleri\Timer Diğital Saat\Timer Diğital Saat\obj\Debug\Timer_Diğital_Saat.Form1.resources
+O:\Udemy\Udemy C# Örnekleri\Timer Diğital Saat\Timer Diğital Saat\obj\Debug\Timer_Diğital_Saat.Properties.Resources.resources
+O:\Udemy\Udemy C# Örnekleri\Timer Diğital Saat\Timer Diğital Saat\obj\Debug\Timer Diğital Saat.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Örnekleri\Timer Diğital Saat\Timer Diğital Saat\obj\Debug\Timer Diğital Saat.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Örnekleri\Timer Diğital Saat\Timer Diğital Saat\obj\Debug\Timer Diğital Saat.exe
+O:\Udemy\Udemy C# Örnekleri\Timer Diğital Saat\Timer Diğital Saat\obj\Debug\Timer Diğital Saat.pdb
